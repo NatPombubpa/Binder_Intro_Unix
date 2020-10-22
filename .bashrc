@@ -122,5 +122,3 @@ export TZ="America/Los_Angeles"
 # formatting prompt
 export PS1="\[$(tput setaf 3)\][\$PWD]\[$(tput sgr0)\]$ "
 
-# changing into working directory for bash intro
-cd unix_intro
